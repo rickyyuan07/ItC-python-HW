@@ -1,5 +1,8 @@
-# ItC-python-hw-sample-code
-TA sample codes for Introduction to Computer 
- 
-# Spec
-Please reference to the [homework spec](https://hackmd.io/@18uoJVgyT9KMeCBZDWu9Ng/HkgFEpyRr)
+# ItC-python-HW
+It is a crawler that crawls the annoucement of NTU CSIE.
+
+team member:
+袁紹奇	b08902045	
+施名軒	b08902105
+龍品瑞	b08902001
+
